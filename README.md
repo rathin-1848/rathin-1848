@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Rathin Baidya
 
-<!--
-**rathin-1848/rathin-1848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 B.Tech CSE (AI & ML) Student | AI Enthusiast | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning,
+Web Development and building useful real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 AI & Machine Learning • 🌐 Web Development • ☁️ Cloud • 💻 Programming
+
+---
+
+- 🔭 I'm currently working on:
+  AI/ML projects, web applications and innovative software solutions.
+
+- 🌱 I'm currently learning:
+  Python, Machine Learning, Deep Learning, Web Development and AI tools.
+
+- 🤝 I'm looking to collaborate on:
+  AI/ML projects, open-source projects, hackathons and innovative ideas.
+
+- 💬 Ask me about:
+  Python, C, AI/ML, Web Development and beginner-level programming.
+
+- 🚀 My goal:
+  To build intelligent technology that solves real-world problems.
+
+---
+
+### 🛠️ Languages & Tools
+
+Python • C • HTML • CSS • JavaScript • Git • GitHub
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
