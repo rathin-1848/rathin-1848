@@ -104,6 +104,15 @@ I like creating practical projects to sharpen my programming and problem-solving
 
 </div>
 
+
+## 🔥 My Coding Journey
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rathin-1848&theme=tokyonight&hide_border=true&background=0D1117&ring=BA8CFF&fire=00D4D8&currStreakLabel=BA8CFF" width="75%"/>
+
+</div>
+
 ---
 
 ## 🎯 My Goal
