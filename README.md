@@ -62,7 +62,7 @@ I enjoy building software projects, learning new technologies, and exploring **A
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,html,css,js,git,github,vscode,linux,docker,figma,mysql,wordpress,kotlin,firebase,supabase,pycharm,androidstudio&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=py,c,html,css,js,git,github,vscode,linux,docker,figma,mysql,wordpress,kotlin,firebase,supabase,pycharm,androidstudio,pytorch,tensorflow&theme=dark" alt="tech stack" />
 </div>
 
 ---
